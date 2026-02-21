@@ -1,17 +1,6 @@
 # Vitamin-Deficiency-Disease-app
 Developed a machine learning web app to predict vitamin deficiency diseases using clinical, nutritional, and lifestyle data. Performed extensive EDA, preprocessing, and class balancing with SMOTE, and trained a Random Forest model achieving high accuracy. Deployed the solution using Streamlit for real-time predictions.
 
-Python • Pandas • NumPy • Scikit-learn  • Streamlit
-vitamin-deficiency-disease-app/
-│
-├── app.py
-├── rf_model.pkl
-├── preprocessor.pkl
-├── requirements.txt
-├── README.md
-├── LICENSE
-└── .gitignore
-
 🔗 Live App:
 https://vitamin-deficiency-disease-app-ctv6bzovmymclgmwdvufwz.streamlit.app/
 
